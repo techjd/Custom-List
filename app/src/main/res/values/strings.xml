@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OnBoarding</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="subtitle">PayNav, is the easy way to share gifts, \n
+expenses and experiences with \n friends &amp; groups.</string>
+</resources>
